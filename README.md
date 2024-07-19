@@ -34,6 +34,9 @@ At last for each song, we have submitted:
 - Images with rectangles drawn around the identified notes.
 - Audio outputs for each page of music.
 
+![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/1.png?raw=true)
+
+
 ## Software Requirements
 
 - Python 3.x
