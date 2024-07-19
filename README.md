@@ -44,7 +44,7 @@ At last for each song, we have submitted:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/music-note-recognition.git
+   git clone https://github.com/MohammadParsaTheFirst/Music-Composer.git
    ```
 2. Navigate to the project directory:
    ```bash   
