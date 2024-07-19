@@ -38,6 +38,8 @@ At last for each song, we have submitted:
 ![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/2.png?raw=true)
 ![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/3.png?raw=true)
 ![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/4.png?raw=true)
+
+Furthermore, You can see the output voices in `.wav` format in this folder: `..\Results`
 ## Software Requirements
 
 - Python 3.x
