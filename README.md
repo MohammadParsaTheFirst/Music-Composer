@@ -46,7 +46,7 @@ At last for each song, we have submitted:
    ```bash
    git clone https://github.com/yourusername/music-note-recognition.git
    ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash   
    cd music-note-recognition
    ```
