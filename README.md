@@ -16,12 +16,12 @@ In this project, we:
 - Jupyter Notebook
 
 ## Instructions
-Firslty, we implemented Template Matching. Then, we identified notes for the songs: `Twinkle, Twinkle, Little Star` , `Polyushka Polie`, and `jane-maryam`  and provide the corresponding outputs.
+Firslty, we implemented Template Matching. Then, we identified notes for the songs: `Twinkle, Twinkle, Little Star` , `Ava Maria`, `Polyushka Polie`, and `jane-maryam`  and provide the corresponding outputs.
 You can see the note' files in the images file: `..\images`. 
 Afterwards we identified black, white, and whole notes  besides sharp and flat signs and confined them with red reactangles.
 ## Helper Functions
 
-You can use the functions provided in `helper.ipynb` to assist with note recognition and drawing rectangles around identified notes.
+You can use the functions provided in `..\Helper\helper.ipynb` to assist with note recognition and drawing rectangles around identified notes.
 
 ## Tips
 
@@ -55,3 +55,6 @@ At last for each song, we have submitted:
    pip install -r requirements.txt
    ```
 4. Open the Jupyter Notebook and run the cells in `helper.ipynb` to perform note recognition and generate outputs.
+   
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
