@@ -35,8 +35,9 @@ At last for each song, we have submitted:
 - Audio outputs for each page of music.
 
 ![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/1.png?raw=true)
-
-
+![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/2.png?raw=true)
+![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/3.png?raw=true)
+![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/4.png?raw=true)
 ## Software Requirements
 
 - Python 3.x
