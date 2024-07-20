@@ -12,7 +12,7 @@ In this project, we:
 
 ## Requirements
 
-- Python
+- Python 
 - OpenCV
 - Jupyter Notebook
   or you can use the matlab file in `..\Main' diretory.
@@ -41,6 +41,11 @@ At last for each song, we have submitted:
 ![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/4.png?raw=true)
 
 Furthermore, You can see the output voices in `.wav` format in this folder: `..\Results`
+![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/Results/converted_to_mp4/avemaria.mp4)
+![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/Results/converted_to_mp4/maryam.mp4)
+![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/Results/converted_to_mp4/twinkle.mp4)
+![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/Results/converted_to_mp4/pole.mp4)
+
 ## Software Requirements
 
 - Python 3.x
