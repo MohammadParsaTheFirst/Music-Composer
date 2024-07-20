@@ -1,6 +1,7 @@
 # Music-Composer
 
 This project focuses on recognizing musical notes from given test images using Template Matching and other image processing techniques. The goal is to identify the notes and play the corresponding music.
+An interesting point of this project is that the project is implemented in python and also matlab. The matlab implementation lies in the `..\Main` directory, while all other files and directories are python implementation of the project. 
 
 ## Project Description
 
@@ -14,7 +15,7 @@ In this project, we:
 - Python
 - OpenCV
 - Jupyter Notebook
-
+  or you can use the matlab file in `..\Main' diretory.
 ## Instructions
 Firslty, we implemented Template Matching. Then, we identified notes for the songs: `Twinkle, Twinkle, Little Star` , `Ava Maria`, `Polyushka Polie`, and `jane-maryam`  and provide the corresponding outputs.
 You can see the note' files in the images file: `..\images`. 
