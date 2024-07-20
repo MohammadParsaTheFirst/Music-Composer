@@ -41,6 +41,13 @@ At last for each song, we have submitted:
 ![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/images/Results/4.png?raw=true)
 
 Furthermore, You can see the output voices in `.wav` format in this folder: `..\Results`
+
+<audio controls>
+  <source src="https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/Results/converted_to_mp4/avemaria.mp4" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
+
 ![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/Results/converted_to_mp4/avemaria.mp4)
 ![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/Results/converted_to_mp4/maryam.mp4)
 ![alt text](https://github.com/MohammadParsaTheFirst/Music-Composer/blob/main/Results/converted_to_mp4/twinkle.mp4)
