@@ -56,7 +56,7 @@ Furthermore, You can see the output voices in `.wav` format in this folder: `..\
    ```
 2. Navigate to the project directory:
    ```bash   
-   cd music-note-recognition
+   cd Music-Composer
    ```
 3. Install the required packages:
     ```bash   
