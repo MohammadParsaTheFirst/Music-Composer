@@ -15,7 +15,7 @@ In this project, we:
 - Python 
 - OpenCV
 - Jupyter Notebook
-  or you can use the matlab file in `..\Main' diretory.
+  or you can use the matlab file in `..\Main` diretory.
 ## Instructions
 Firslty, we implemented Template Matching. Then, we identified notes for the songs: `Twinkle, Twinkle, Little Star` , `Ava Maria`, `Polyushka Polie`, and `jane-maryam`  and provide the corresponding outputs.
 You can see the note' files in the images file: `..\images`. 
